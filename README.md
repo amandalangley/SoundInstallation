@@ -8,6 +8,6 @@ Interactive Virtual Reality Sound Installation
 
 ![Imgur Image](https://i.imgur.com/cDBK98H.jpg)
 
-[Imgur](https://i.imgur.com/9tX7xKr.mp4)
+![Imgur Image](https://i.imgur.com/9tX7xKr.mp4)
 
 
