@@ -1,4 +1,4 @@
-Akvfx
+Reference: Using Keijiro's Akvfx library
 =====
 
 ![gif](https://i.imgur.com/h0kApp4.gif)
